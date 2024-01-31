@@ -17,6 +17,9 @@ Please issue/pr if you have any updates!
 
 [SegMamba: Long-range Sequential Modeling Mamba For 3D Medical Image Segmentation](https://github.com/ge-xing/SegMamba)
 
+[VMamba: Visual State Space Model](https://github.com/MzeroMiko/VMamba)
+
+[U-Mamba: Enhancing Long-range Dependency for Biomedical Image Segmentation](https://github.com/bowang-lab/U-Mamba)
 
 ## NLP
 
