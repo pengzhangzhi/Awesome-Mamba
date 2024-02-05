@@ -26,3 +26,7 @@ Please issue/pr if you have any updates!
 [MambaByte: Token-free Selective State Space Model](https://github.com/kyegomez/MambaByte)
 
 [BlackMamba: Mixture of Experts for State-Space Models](https://static1.squarespace.com/static/658ded386c43c219ee47caba/t/65bd73200920d050ccbac40c/1706914594353/blackMamba.pdf)
+
+## Graph
+
+[Graph-Mamba: Towards Long-Range Graph Sequence Modeling with Selective State Spaces](https://github.com/bowang-lab/Graph-Mamba)
