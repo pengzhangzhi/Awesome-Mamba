@@ -21,6 +21,10 @@ Please issue/pr if you have any updates!
 
 [U-Mamba: Enhancing Long-range Dependency for Biomedical Image Segmentation](https://github.com/bowang-lab/U-Mamba)
 
+[Swin-UMamba](https://github.com/JiarunLiu/Swin-UMamba)
+
+[VM-UNet](https://github.com/JCruan519/VM-UNet)
+
 ## NLP
 
 [MambaByte: Token-free Selective State Space Model](https://github.com/kyegomez/MambaByte)
