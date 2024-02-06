@@ -34,3 +34,9 @@ Please issue/pr if you have any updates!
 ## Graph
 
 [Graph-Mamba: Towards Long-Range Graph Sequence Modeling with Selective State Spaces](https://github.com/bowang-lab/Graph-Mamba)
+
+
+## Acknowledgement
+
+[@alxndrTL](https://github.com/alxndrTL) 
+
