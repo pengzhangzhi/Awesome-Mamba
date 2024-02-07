@@ -30,6 +30,7 @@ Please issue/pr if you have any updates! We will discuss the papers on issues, f
 [MambaByte: Token-free Selective State Space Model](https://github.com/kyegomez/MambaByte)
 
 [BlackMamba: Mixture of Experts for State-Space Models](https://static1.squarespace.com/static/658ded386c43c219ee47caba/t/65bd73200920d050ccbac40c/1706914594353/blackMamba.pdf)
+
 [Repeat After Me: Transformers are Better than State Space Models at Copying](https://arxiv.org/pdf/2402.01032.pdf)
 
 ## Graph
