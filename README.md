@@ -1,8 +1,8 @@
 # Awesome-Mamba
 Awesome list of papers that extend Mamba to various applications.
-Please issue/pr if you have any updates!
+Please issue/pr if you have any updates! We will discuss the papers on issues, feel free to join!
 ## Mamba
-[Mamba](https://github.com/state-spaces/mamba) is a new state space model architecture showing promising performance on language modeling with O(N) complexity.
+[Mamba](https://github.com/state-spaces/mamba) is a new state-space model architecture showing promising performance on language modeling with O(N) complexity.
 
 [mamba.py 🐍 : a simple and efficient Mamba implementation](https://github.com/alxndrTL/mamba.py)
 
@@ -30,6 +30,7 @@ Please issue/pr if you have any updates!
 [MambaByte: Token-free Selective State Space Model](https://github.com/kyegomez/MambaByte)
 
 [BlackMamba: Mixture of Experts for State-Space Models](https://static1.squarespace.com/static/658ded386c43c219ee47caba/t/65bd73200920d050ccbac40c/1706914594353/blackMamba.pdf)
+[Repeat After Me: Transformers are Better than State Space Models at Copying](https://arxiv.org/pdf/2402.01032.pdf)
 
 ## Graph
 
@@ -38,5 +39,6 @@ Please issue/pr if you have any updates!
 
 ## Acknowledgement
 
-[@alxndrTL](https://github.com/alxndrTL) 
+- [@alxndrTL](https://github.com/alxndrTL) 
+- [@GianlucaMancusi](https://github.com/GianlucaMancusi)
 
