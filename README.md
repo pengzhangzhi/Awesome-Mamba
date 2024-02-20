@@ -50,6 +50,16 @@ Please issue/pr if you have any updates! We will discuss the papers on issues, f
 
 [Graph Mamba: Towards Learning on Graphs with State Space Models](https://arxiv.org/abs/2402.08678)
 
+## Theory
+
+[Universality-1](https://arxiv.org/abs/2309.13414)
+
+[Universality-2](https://arxiv.org/abs/2307.11888)
+
+[StableSSM](http://arxiv.org/abs/2311.14495)
+
+[Generalization](https://openreview.net/forum?id=EGjvMcKrrl&noteId=eWRltAW3XY)
+
 ## Acknowledgement
 
 - [@alxndrTL](https://github.com/alxndrTL) 
