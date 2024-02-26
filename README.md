@@ -12,6 +12,8 @@ Please issue/pr if you have any updates! We will discuss the papers on issues, f
 
 [Mamba-minimal-in-JAX](https://github.com/radarFudan/mamba-minimal-jax)
 
+[Mamba.c: inference of Mamba models in C and CUDA](https://github.com/kroggen/mamba.c)
+
 ## Computer Vision
 
 [Efficient Visual Representation Learning with Bidirectional State Space Model](https://github.com/hustvl/Vim)
