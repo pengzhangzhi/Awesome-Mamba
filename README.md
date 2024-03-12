@@ -40,6 +40,8 @@ Please issue/pr if you have any updates! We will discuss the papers on issues, f
 
 [BlackMamba: Mixture of Experts for State-Space Models](https://static1.squarespace.com/static/658ded386c43c219ee47caba/t/65bd73200920d050ccbac40c/1706914594353/blackMamba.pdf)
 
+[ClinicalMamba: A Generative Clinical Language Model on Longitudinal Clinical Notes](https://arxiv.org/abs/2403.05795)
+
 [Repeat After Me: Transformers are Better than State Space Models at Copying](https://arxiv.org/pdf/2402.01032.pdf)
 
 [Can Mamba Learn How to Learn? A Comparative Study on In-Context Learning Tasks](https://arxiv.org/pdf/2402.04248.pdf)
