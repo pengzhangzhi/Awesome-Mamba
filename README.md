@@ -16,6 +16,8 @@ Please issue/pr if you have any updates! We will discuss the papers on issues, f
 
 ## Computer Vision
 
+[PlainMamba: Improving Non-Hierarchical Mamba in Visual Recognition](https://arxiv.org/abs/2403.17695)
+
 [Efficient Visual Representation Learning with Bidirectional State Space Model](https://github.com/hustvl/Vim)
 
 [MambaMorph: a Mamba-based Backbone with Contrastive Feature Learning for Deformable MR-CT Registration](https://github.com/Guo-Stone/MambaMorph)
