@@ -34,6 +34,8 @@ Please issue/pr if you have any updates! We will discuss the papers on issues, f
 
 [VM-UNet](https://github.com/JCruan519/VM-UNet)
 
+[ZigMa](https://taohu.me/zigma/)
+
 ## NLP
 
 [MambaByte: Token-free Selective State Space Model](https://github.com/kyegomez/MambaByte)
