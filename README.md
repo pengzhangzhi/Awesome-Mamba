@@ -37,6 +37,8 @@ Please issue/pr if you have any updates :)
 
 [ZigMa](https://taohu.me/zigma/)
 
+[I2I-Mamba: Multi-modal Medical Image Synthesis via Selective State Space Modeling](https://arxiv.org/abs/2405.14022) [[code](https://github.com/icon-lab/I2I-Mamba)]
+
 ## NLP
 
 [MambaByte: Token-free Selective State Space Model](https://github.com/kyegomez/MambaByte)
