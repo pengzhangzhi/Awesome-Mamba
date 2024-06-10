@@ -71,6 +71,10 @@ Please issue/pr if you have any updates :)
 
 [Generalization](https://openreview.net/forum?id=EGjvMcKrrl&noteId=eWRltAW3XY)
 
+## Medical Imaging
+
+- [Computation-Efficient Era: A Comprehensive Survey of State Space Models in Medical Image Analysis](https://arxiv.org/abs/2406.03430) [[Github](https://github.com/xmindflow/Awesome_Mamba)]
+
 ## Acknowledgement
 
 - [@alxndrTL](https://github.com/alxndrTL) 
