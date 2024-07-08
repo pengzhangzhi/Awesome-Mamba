@@ -39,6 +39,9 @@ Please issue/pr if you have any updates :)
 
 [I2I-Mamba: Multi-modal Medical Image Synthesis via Selective State Space Modeling](https://arxiv.org/abs/2405.14022) [[code](https://github.com/icon-lab/I2I-Mamba)]
 
+[SUM: Saliency Unification through Mamba for Visual Attention Modeling](https://arxiv.org/abs/2406.17815) [[code](https://github.com/Arhosseini77/SUM)]
+
+
 ## NLP
 
 [MambaByte: Token-free Selective State Space Model](https://github.com/kyegomez/MambaByte)
