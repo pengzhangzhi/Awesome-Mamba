@@ -41,6 +41,8 @@ Please issue/pr if you have any updates :)
 
 [SUM: Saliency Unification through Mamba for Visual Attention Modeling](https://arxiv.org/abs/2406.17815) [[code](https://github.com/Arhosseini77/SUM)]
 
+[DiM: Diffusion Mamba for Efficient High-Resolution Image Synthesis](https://arxiv.org/abs/2405.14224) [[code](https://github.com/tyshiwo1/DiM-DiffusionMamba)]
+
 
 ## NLP
 
