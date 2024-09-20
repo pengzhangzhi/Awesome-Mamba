@@ -35,6 +35,8 @@ Please issue/pr if you have any updates :)
 
 [VM-UNet](https://github.com/JCruan519/VM-UNet)
 
+[ExpoMamba](https://openreview.net/forum?id=X9L6PatYhH) (ICML ES-FoMo II)
+
 [ZigMa (ECCV 2024)](https://taohu.me/zigma/)
 
 [I2I-Mamba: Multi-modal Medical Image Synthesis via Selective State Space Modeling](https://arxiv.org/abs/2405.14022) [[code](https://github.com/icon-lab/I2I-Mamba)]
