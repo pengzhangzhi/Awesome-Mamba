@@ -45,6 +45,8 @@ Please issue/pr if you have any updates :)
 
 [DiM: Diffusion Mamba for Efficient High-Resolution Image Synthesis](https://arxiv.org/abs/2405.14224) [[code](https://github.com/tyshiwo1/DiM-DiffusionMamba)]
 
+[MambaRoll: Physics-Driven Autoregressive State Space Models for Medical Image Reconstruction](https://arxiv.org/abs/2412.09331) [[code](https://github.com/icon-lab/MambaRoll/)]
+
 
 ## NLP
 
