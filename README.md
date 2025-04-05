@@ -17,6 +17,8 @@ Please issue/pr if you have any updates :)
 
 ## Computer Vision
 
+[DynamicVis: An Efficient and General Visual Foundation Model for Remote Sensing Image Understanding](https://github.com/KyanChen/DynamicVis)
+
 [PlainMamba: Improving Non-Hierarchical Mamba in Visual Recognition](https://arxiv.org/abs/2403.17695)
 
 [Efficient Visual Representation Learning with Bidirectional State Space Model](https://github.com/hustvl/Vim)
