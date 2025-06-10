@@ -72,6 +72,10 @@ Please issue/pr if you have any updates :)
 
 [Graph Mamba: Towards Learning on Graphs with State Space Models](https://arxiv.org/abs/2402.08678)
 
+## Federated Learning
+
+[Look Back for More: Harnessing Historical Sequential Updates for Personalized Federated Adapter Tuning](https://arxiv.org/pdf/2501.01653)
+
 ## Theory
 
 [Universality-1](https://arxiv.org/abs/2309.13414)
