@@ -66,6 +66,8 @@ Please issue/pr if you have any updates :)
 
 [LOCOST: State-Space Models for Long Document Abstractive Summarization](https://arxiv.org/abs/2401.17919)
 
+[S₀ Tuning: Zero-Overhead Adaptation of Hybrid Recurrent-Attention Models](https://arxiv.org/abs/2604.01168) [[Code](https://github.com/JackYoung27/s0-tuning)]
+
 ## Graph
 
 [Graph-Mamba: Towards Long-Range Graph Sequence Modeling with Selective State Spaces](https://github.com/bowang-lab/Graph-Mamba)
@@ -96,4 +98,3 @@ Please issue/pr if you have any updates :)
 
 - [@alxndrTL](https://github.com/alxndrTL) 
 - [@GianlucaMancusi](https://github.com/GianlucaMancusi)
-
