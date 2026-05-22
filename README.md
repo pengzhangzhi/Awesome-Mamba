@@ -15,6 +15,8 @@ Please issue/pr if you have any updates :)
 
 [Mamba.c: inference of Mamba models in C and CUDA](https://github.com/kroggen/mamba.c)
 
+[burn-mamba](https://github.com/swfsql/burn-mamba): Rust library for Mamba models in the [burn](https://github.com/tracel-ai/burn/) framework
+
 ## Computer Vision
 
 [DynamicVis: An Efficient and General Visual Foundation Model for Remote Sensing Image Understanding](https://github.com/KyanChen/DynamicVis)
