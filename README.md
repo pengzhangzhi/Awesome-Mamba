@@ -53,6 +53,8 @@ Please issue/pr if you have any updates :)
 
 [Hamba: Single-view 3D Hand Reconstruction with Graph-guided Bi-Scanning Mamba](https://arxiv.org/abs/2407.09646) [[project](https://humansensinglab.github.io/Hamba/)] (NeurIPS 2024)
 
+[PoseMamba: Monocular 3D Human Pose Estimation with Bidirectional Global-Local Spatio-Temporal State Space Model](https://arxiv.org/abs/2408.03540) [[code](https://github.com/nankingjing/PoseMamba)] [[weights](https://huggingface.co/nankingjings/PoseMamba-weights)] [[demo](https://huggingface.co/spaces/nankingjings/PoseMamba-Demo)] (AAAI 2025)
+
 [MV-SSM: Multi-View State Space Modeling for 3D Human Pose Estimation](https://arxiv.org/abs/2509.00649) [[project](https://aviralchharia.github.io/MV-SSM/)] (CVPR 2025)
 
 [Multi-view Consistent 3D Gaussian Head Avatars 'without' Multi-view Generation](https://arxiv.org/abs/2605.25220) [[project](https://humansensinglab.github.io/MVCHead/)] (CVPR 2026)
